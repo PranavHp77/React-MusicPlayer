@@ -1,6 +1,8 @@
 Experimenting with react hooks async promise and props 
 (purposely didn't use axion or API)
 
+https://practical-colden-2f30fb.netlify.app/
+
 In the project directory, you can run:
 
 ### `yarn start`
